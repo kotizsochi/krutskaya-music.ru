@@ -8,3 +8,8 @@ DJ promo
 референс*.jpg
 сделай_как_будто*
 .env*.local
+assets/*.jpg
+assets/**/*.jpg
+assets/*.png
+assets/**/*.png
+IMG_*.jpg
